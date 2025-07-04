@@ -10,4 +10,5 @@
       img.logo {
         width: 500px;
         margin-top: 30px;
+        filter: brightness(0);
       }
